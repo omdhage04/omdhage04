@@ -6,7 +6,7 @@ Java Full-stack Devloper
 ------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [PORTFOLIO](http://omdhage04.infinityfree.me)
+* 🖥️  See my portfolio at [PORTFOLIO](http://omdhagess.infinityfree.me)
 * ✉️  You can contact me at [omdhage.dev@gmail.com](mailto:omdhage.dev@gmail.com)
 * 🚀  I'm currently working on [shortmylink](http://shortmylink.infinityfree.io)
 
