@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Full-stack Devloper
 ------------------------
 
-* 🌍  I'm based in India
+* 🌍  I'm from India
 * 🖥️  See my portfolio at [PORTFOLIO](https://omdhage.infinityfree.me/)
 * ✉️  You can contact me at [omdhage.dev@gmail.com](mailto:omdhage.dev@gmail.com)
 * 🚀  I'm currently working on [shortmylink](https://shortmylink.infinityfree.io)
